@@ -61,8 +61,9 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preyans-alt&theme=tokyonight"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Preyans-alt&theme=react-dark" />
 </p>
+
 
 
 ---
