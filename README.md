@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Preyans Patel</h1>
-<h3 align="center">CSE Student | Full Stack & Python Developer</h3>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=420&lines=Preyans+Patel&repeat=false" 
+    alt="Preyans Patel"
+  />
+</h1>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Python+Programmer;DSA+%26+DBMS+Learner;Exploring+AI%2FML;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&height=45&lines=Full+Stack+Developer;Python+%7C+Java+%7C+MERN;Data+Structures+%26+Algorithms;DBMS+%26+DSA;Exploring+AI+%26+ML" 
+  />
 </p>
+
 
 ---
 
@@ -37,7 +45,7 @@
 - 🚀 **Full Stack Web Application** – HTML, CSS, JS, Python  
 - 🐍 **Python Automation / Logic Projects**  
 - 📊 **DSA Practice Repository** (LeetCode-style problems)  
-- 🧠 **Mini Projects for Learning AI/ML Concepts**
+- 🧠 **Projects for Learning AI/ML Concepts**
 
 👉 Check pinned repositories below ⬇️
 
@@ -45,33 +53,33 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Preyans-alt&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyans-alt&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preyans-alt&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preyans-alt&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: *(add link)*
-- 🧠 LeetCode: *(add link)*
-- 📫 Email: *(add email)*
+- 💼 LinkedIn: **www.linkedin.com/in/preyanspatel**
+- 🧠 LeetCode: **https://leetcode.com/u/PatelPreyans/**
+- 📫 Email: **preyanspatel84@gmail.com**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=blue&style=flat"/>
 </p>
