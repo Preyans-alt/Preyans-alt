@@ -47,8 +47,6 @@
 - 📊 **DSA Practice Repository** (LeetCode-style problems)  
 - 🧠 **Projects for Learning AI/ML Concepts**
 
-👉 Check pinned repositories below ⬇️
-
 ---
 
 ## 📊 GitHub Stats
@@ -61,7 +59,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Preyans-alt&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?user=Preyans-alt&theme=react-dark" />
 </p>
 
 
