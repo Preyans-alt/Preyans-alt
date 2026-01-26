@@ -45,30 +45,30 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patel Preyans&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patel Preyans&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Preyans-alt&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyans-alt&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patel Preyans&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preyans-alt&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patel Preyans&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preyans-alt&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: *(add link)*
-- 🧠 LeetCode: *(add link)*
-- 📫 Email: *(add email)*
+- 💼 LinkedIn: **www.linkedin.com/in/preyanspatel**
+- 🧠 LeetCode: **https://leetcode.com/u/PatelPreyans/**
+- 📫 Email: **preyanspatel84@gmail.com**
 
 ---
 
