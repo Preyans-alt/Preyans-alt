@@ -1,77 +1,87 @@
-<h1 align="center">Hi 👋, I'm Preyans Patel</h1>
-<h3 align="center">CSE Student | Full Stack & Python Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Preyans%20Patel&fontSize=45&fontAlignY=35&animation=twinkling" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Full+Stack+Developer;Python+Programmer;DSA+%26+DBMS+Learner;Exploring+AI%2FML&center=true&width=600&height=45">
+</h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Python+Programmer;DSA+%26+DBMS+Learner;Exploring+AI%2FML;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://user-images.githubusercontent.com/74038190/216655846-938b3d1b-8d2f-4d18-bbdb-4d6eecb9c5a6.gif" width="300"/>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 CSE Student passionate about software development  
-- 💻 Interested in **Full Stack Development & Backend Systems**  
-- 🐍 Strong with **Python** and Web Technologies  
-- 📊 Practicing **DSA & DBMS** regularly  
-- 🤖 Currently exploring **AI/ML basics**  
-- 🌱 Learning by **building projects**, not just watching tutorials  
+## ✨ About Me
+🌱 I’m a **Computer Science student** who loves turning ideas into code  
+💻 Focused on **Full Stack Development & Python**  
+📊 Practicing **DSA & DBMS** to strengthen problem-solving  
+🤖 Currently exploring **AI/ML fundamentals**  
+🚀 Believer in *learning by building real projects*
 
 ---
 
 ## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-Database%20Concepts-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Learning-orange?style=for-the-badge"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-- 🚀 **Full Stack Web Application** – HTML, CSS, JS, Python  
-- 🐍 **Python Automation / Logic Projects**  
-- 📊 **DSA Practice Repository** (LeetCode-style problems)  
-- 🧠 **Mini Projects for Learning AI/ML Concepts**
+## 🚀 Featured Work
+✨ Some things I’m proud of:
+- 🌐 Full Stack Web Applications  
+- 🐍 Python Logic & Automation Projects  
+- 📊 DSA Problem Solving (LeetCode style)  
+- 🧠 Mini projects while learning AI/ML  
 
-👉 Check pinned repositories below ⬇️
+📌 *Check pinned repositories below*
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preyans-alt&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyans-alt&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Preyans-alt&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyans-alt&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preyans-alt&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preyans-alt&theme=radical"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preyans-alt&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preyans-alt&theme=react-dark"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: **www.linkedin.com/in/preyanspatel**
-- 🧠 LeetCode: **https://leetcode.com/u/PatelPreyans/**
-- 📫 Email: **preyanspatel84@gmail.com**
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+</p>
+
+<p align="center">
+  ✨ “Code. Learn. Improve. Repeat.” ✨
 </p>
