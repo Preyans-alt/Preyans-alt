@@ -1,87 +1,84 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Preyans+Patel;Computer+Science+Student;Full+Stack+%26+Python+Developer" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Preyans%20Patel&fontSize=45&fontAlignY=35&animation=twinkling" />
+  <b>CSE Student</b> • <b>Full Stack Developer</b> • <b>Python Programmer</b>  
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Full+Stack+Developer;Python+Programmer;DSA+%26+DBMS+Learner;Exploring+AI%2FML&center=true&width=600&height=45">
-</h3>
+<p align="center">
+  Building clean, scalable, and user-focused software 🚀
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655846-938b3d1b-8d2f-4d18-bbdb-4d6eecb9c5a6.gif" width="300"/>
-</p>
-
----
-
-## ✨ About Me
-🌱 I’m a **Computer Science student** who loves turning ideas into code  
-💻 Focused on **Full Stack Development & Python**  
-📊 Practicing **DSA & DBMS** to strengthen problem-solving  
-🤖 Currently exploring **AI/ML fundamentals**  
-🚀 Believer in *learning by building real projects*
+## 👨‍💻 About Me
+- 🎓 Computer Science student with strong interest in **software engineering**
+- 🌐 Focused on **Full Stack Web Development**
+- 🐍 Comfortable with **Python** for logic & backend
+- 📊 Practicing **DSA & DBMS** for problem-solving depth
+- 🤖 Currently learning **AI/ML fundamentals**
+- ⚡ I believe in *consistent improvement over shortcuts*
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&theme=light" />
 </p>
 
 ---
 
 ## 🚀 Featured Work
-✨ Some things I’m proud of:
 - 🌐 Full Stack Web Applications  
-- 🐍 Python Logic & Automation Projects  
-- 📊 DSA Problem Solving (LeetCode style)  
-- 🧠 Mini projects while learning AI/ML  
+- 🐍 Python-based Logic & Automation Projects  
+- 📊 Data Structures & Algorithms (LeetCode Practice)  
+- 🧠 Academic & Learning-based Mini Projects  
 
-📌 *Check pinned repositories below*
+📌 *See pinned repositories below*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preyans-alt&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyans-alt&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Preyans-alt&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyans-alt&layout=compact&theme=github_dark" height="165"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preyans-alt&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preyans-alt&theme=github-dark"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preyans-alt&theme=react-dark"/>
-</p>
-
----
-
-## 🌐 Connect With Me
+## 📬 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow"/>
   </a>
+  &nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=grey&style=flat-square"/>
 </p>
 
 <p align="center">
-  ✨ “Code. Learn. Improve. Repeat.” ✨
+  <i>Focused on learning. Committed to growth.</i>
 </p>
