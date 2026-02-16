@@ -53,17 +53,8 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Preyans-alt&theme=github_dark" height="180em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Preyans-alt&theme=github_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Preyans-alt&theme=github_dark" height="180em" />
 </div>
-
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?user=Preyans-alt&theme=react-dark" />
-</p>
-
-
 
 ---
 
