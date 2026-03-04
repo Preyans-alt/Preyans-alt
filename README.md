@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/ aling="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" aling="center">
 
 # 👨‍💻 About Me
 
