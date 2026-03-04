@@ -1,7 +1,5 @@
 <h1 align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Preyans+Patel&repeat=false"/>
-
 </h1>
 
 <h3 align="center">
@@ -13,34 +11,26 @@ Computer Science Student • DSA Enthusiast • AI/ML Learner
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900"/>
 </p>
 
 # 👨‍💻 About Me
 
 - 🎓 Computer Science Student passionate about software development  
 - 💻 Interested in **Full Stack Development & Backend Systems**  
-- 🧠 Practicing **DSA Daily**  
-- 🤖 Currently learning **Artificial Intelligence & Machine Learning**  
-- 🚀 Learning by **building projects instead of watching tutorials**
+- 🧠 Practicing **Data Structures & Algorithms daily**  
+- 🤖 Currently exploring **Artificial Intelligence & Machine Learning**  
+- 🚀 I prefer **building projects to learn concepts deeply**
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900"/>
 </p>
 
 # ⚡ Tech Stack
 
-### Animation (runs once)
+## 🌐 Frontend
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=HTML;CSS;JavaScript;Bootstrap;TailwindCSS;Python;Flask;DSA;AI%2FML&repeat=false"/>
-
-</p>
-
-### Technologies
-
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -52,24 +42,32 @@ Computer Science Student • DSA Enthusiast • AI/ML Learner
 
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 
+</p>
+
+## ⚙ Backend
+
+<p>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
 
 </p>
 
-<p align="center">
+## 📚 Computer Science
 
-<img src="https://img.shields.io/badge/DSA-Daily%20Practice-blue?style=for-the-badge"/>
+<p>
 
-<img src="https://img.shields.io/badge/AI%2FML-Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Practice-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/DBMS-Concepts-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%2FML-Learning-orange?style=for-the-badge"/>
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900"/>
 </p>
 
 # 📊 GitHub Activity
@@ -91,19 +89,19 @@ Computer Science Student • DSA Enthusiast • AI/ML Learner
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900"/>
 </p>
 
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Preyans-alt&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Preyans-alt&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900"/>
 </p>
 
 # 📊 Contribution Summary
@@ -125,7 +123,7 @@ Computer Science Student • DSA Enthusiast • AI/ML Learner
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900"/>
 </p>
 
 # 🌐 Connect With Me
@@ -140,17 +138,7 @@ https://leetcode.com/u/PatelPreyans/
 preyanspatel84@gmail.com  
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800"/>
-</p>
 
-# 🐍 Contribution Snake
+⭐ From **Preyans Patel** | Always learning and building 🚀
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-<p align="center">
-⭐ From <b>Preyans Patel</b> | Always learning, always building 🚀
 </p>
