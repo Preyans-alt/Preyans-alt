@@ -1,13 +1,11 @@
 <h1 align="center">
-  <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Preyans+Patel&repeat=false" 
-  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Preyans+Patel&repeat=false" />
 </h1>
 
 <h3 align="center">Computer Science Student • DSA Enthusiast • AI/ML Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
@@ -16,45 +14,45 @@
 
 - 🎓 Computer Science Student passionate about software development  
 - 💻 Interested in **Full Stack Development & Backend Systems**  
-- 🧠 Practicing **DSA daily**  
+- 🧠 Practicing **DSA Daily**  
 - 🤖 Currently learning **Artificial Intelligence & Machine Learning**  
-- 🐍 Strong interest in **Python development**  
-- 🚀 Learning by **building projects instead of just watching tutorials**
+- 🐍 Strong interest in **Python Development**  
+- 🚀 Learning by **building projects instead of watching tutorials**
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=HTML+•+CSS+•+JavaScript;Bootstrap+•+TailwindCSS;Python+•+Flask;DSA+•+AI%2FML+Learning&repeat=false"/>
+
+</p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/HTML5-FF512F?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3"/>
 
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/Bootstrap-8A2BE2?style=for-the-badge&logo=bootstrap"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-00FFFF?style=for-the-badge&logo=tailwind-css"/>
+
+<img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 
 ### ⚙ Backend
 
 <p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
 
-### 📚 Learning
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
 
-<p>
-<img src="https://img.shields.io/badge/DSA-Daily%20Practice-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%2FML-Learning-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DBMS-Concepts-green?style=for-the-badge"/>
 </p>
 
 ---
