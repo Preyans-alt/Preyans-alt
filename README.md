@@ -92,14 +92,6 @@ Computer Science Student • DSA Enthusiast • AI/ML Learner
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900"/>
 </p>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Preyans-alt&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900"/>
 </p>
@@ -137,8 +129,8 @@ https://leetcode.com/u/PatelPreyans/
 📫 **Email**  
 preyanspatel84@gmail.com  
 
-<p align="center">
+<div align="center">
 
 ⭐ From **Preyans Patel** | Always learning and building 🚀
 
-</p>
+</div>
