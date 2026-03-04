@@ -16,42 +16,51 @@
 - 💻 Interested in **Full Stack Development & Backend Systems**  
 - 🧠 Practicing **DSA Daily**  
 - 🤖 Currently learning **Artificial Intelligence & Machine Learning**  
-- 🐍 Strong interest in **Python Development**  
-- 🚀 Learning by **building projects instead of watching tutorials**
+- 🚀 Learning by **building projects instead of only watching tutorials**
 
 ---
 
 # ⚡ Tech Stack
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=HTML+•+CSS+•+JavaScript;Bootstrap+•+TailwindCSS;Python+•+Flask;DSA+•+AI%2FML+Learning&repeat=false"/>
-
-</p>
-
-### 🌐 Web Development
+## 🌐 Frontend
 
 <p>
 
-<img src="https://img.shields.io/badge/HTML5-FF512F?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 
-<img src="https://img.shields.io/badge/Bootstrap-8A2BE2?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/TailwindCSS-00FFFF?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 
-<img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 
 </p>
 
-### ⚙ Backend
+---
+
+## ⚙ Backend
 
 <p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+
+</p>
+
+---
+
+## 📚 Computer Science
+
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Practice-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-Concepts-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%2FML-Learning-orange?style=for-the-badge"/>
 
 </p>
 
