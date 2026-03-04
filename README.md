@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/ aling="center">
 
 # 👨‍💻 About Me
 
@@ -82,13 +82,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Preyans-alt&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
