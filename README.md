@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Preyans-alt&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 👨‍💻 About Me
 
@@ -16,9 +16,9 @@
 - 💻 Interested in **Full Stack Development & Backend Systems**  
 - 🧠 Practicing **DSA Daily**  
 - 🤖 Currently learning **Artificial Intelligence & Machine Learning**  
-- 🚀 Learning by **building projects instead of only watching tutorials**
+- 🚀 Learning by **building projects instead of watching tutorials**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # ⚡ Tech Stack
 
@@ -38,8 +38,6 @@
 
 </p>
 
----
-
 ## ⚙ Backend
 
 <p>
@@ -50,13 +48,11 @@
 
 </p>
 
----
-
 ## 📚 Computer Science
 
 <p>
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Practice-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Daily%20Practice-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/DBMS-Concepts-green?style=for-the-badge"/>
 
@@ -64,7 +60,7 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 📊 GitHub Activity
 
@@ -76,8 +72,6 @@
 
 </p>
 
----
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -86,7 +80,17 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Preyans-alt&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 📊 Contribution Summary
 
@@ -106,7 +110,7 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🌐 Connect With Me
 
@@ -119,7 +123,15 @@ https://leetcode.com/u/PatelPreyans/
 📫 **Email**  
 preyanspatel84@gmail.com
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+</p>
 
 <p align="center">
 
